@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Danusree
 - 👀 I’m interested in Software Development especially in web development and creating interactive and user inrterface..
-- 🌱 I’m currently learning Front end technologies like Html,Css,Bootstrap,Javascript.
+- 🌱 I’m currently learning Front end technologies like Html,Css,Bootstrap,Javascript and Back-End Technology like Python,Mysql.
 - 💞️ I’m looking to collaborate on open source projects  and software development that can make me a positive impact..
 - 📫 How to reach me linkedin -- www.linkedin.com/in/danusree-k 
 - 😄 Pronouns: She/Her
